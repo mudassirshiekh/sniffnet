@@ -37,7 +37,7 @@ Translated in:<br>
 
 
 ## _Support Sniffnet's development_ 💖
-
+## By Mudassir Alam
 <i>Sniffnet is completely free, open-source software which needs lots of effort and time to develop and maintain.</i>
 
 <i>If you appreciate Sniffnet, [consider sponsoring](https://github.com/sponsors/GyulyVGC):
